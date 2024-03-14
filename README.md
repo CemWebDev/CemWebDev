@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **html5, css3, scss, javascript**
+- 💬 Ask me about **html5, css3, scss, javascript, jquery, typescript**
 
 - 📫 How to reach me **webdevelopercem@gmail.com**
 
