@@ -8,13 +8,11 @@
 
 ### Skills
 
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, sass, js" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js" />
   </a>
 </p>
-
 
 ### Socials
 
