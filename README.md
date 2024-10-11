@@ -10,12 +10,13 @@
 
 <p align="left">
 <img src="https://unpkg.com/icon-burst@1.0.0/icons/default/mongodb.svg" width="45" height="45" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="45" height="45" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="45" height="45" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45" height="45" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" />
+<img src="https://unpkg.com/icon-burst@1.0.0/icons/dark/expressDark.svg" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://unpkg.com/icon-burst@1.0.0/icons/default/reactjs.svg" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://unpkg.com/icon-burst@1.0.0/icons/default/redux.svg" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://unpkg.com/icon-burst@1.0.0/icons/default/nodejs.svg" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://unpkg.com/icon-burst@1.0.0/icons/default/tailwindcss.svg" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://unpkg.com/icon-burst@1.0.0/icons/default/bootstrap.svg" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://unpkg.com/icon-burst@1.0.0/icons/default/sass.svg" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://unpkg.com/icon-burst@1.0.0/icons/default/python.svg" width="45" height="45" />&nbsp;&nbsp;
+<img src="https://unpkg.com/icon-burst@1.0.0/icons/default/numpy.svg" width="45" height="45" />
 </p>
