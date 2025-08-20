@@ -11,7 +11,6 @@
 <img src="https://unpkg.com/piconss@1.0.0/icons/default/mongodb.svg" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://unpkg.com/piconss@1.0.0/icons/dark/expressDark.svg" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://unpkg.com/piconss@1.0.0/icons/default/reactjs.svg" width="45" height="45" />&nbsp;&nbsp;
-<img src="https://unpkg.com/piconss@1.0.0/icons/default/nextjs.svg" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://unpkg.com/piconss@1.0.0/icons/default/nodejs.svg" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://unpkg.com/piconss@1.0.0/icons/default/tailwindcss.svg" width="45" height="45" />&nbsp;&nbsp;
 <img src="https://unpkg.com/piconss@1.0.0/icons/default/sass.svg" width="45" height="45" />&nbsp;&nbsp;
